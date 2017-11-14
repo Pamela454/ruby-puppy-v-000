@@ -3,6 +3,7 @@ class Dog
 
   def initialize(name)
     @name = name
+    @@all = @@all << new.Dog
   end
   @@all = []
 end
