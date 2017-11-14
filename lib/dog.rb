@@ -13,7 +13,7 @@ class Dog
   end
 
   def all
-    
+
   end
 
 end
